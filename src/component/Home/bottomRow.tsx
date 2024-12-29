@@ -7,7 +7,7 @@ const BottomRow = ({ CATEGORIES, width, handleClick }) => {
       <div>
         <div
           className={
-            "w-full h-auto md:pl-[85px] lg:pl-[75px] pr-24 mt-2 flex flex-row justify-start flex-wrap gap-x-10"
+            "w-full h-auto md:pl-[85px] lg:pl-[135px] mt-2 flex flex-row flex-wrap gap-x-10"
           }
         >
           {(width > 575
