@@ -10,10 +10,10 @@ function Header() {
   return (
     <div className="h-20 lg:h-36 absolute z-50 top-0 mr-2 flex justify-center items-center w-full bg-gradient-to-t from-transparent to-white px-6 pt-2 lg:px-20">
       <div className=" flex items-center border-r-2 border-blue-600 py-2 px-5">
-        <img src="/logo.svg" alt="Vector" className="w-56" />
+        <img src="/logo.svg" alt="logo" className="w-56" />
       </div>
 
-      <div className="hidden relative text-sm px-2 font-semibold lg:flex flex-row items-center text-blue-600 h-fit pt-2 pb-4 mx-auto">
+      <div className="hidden relative text-sm px-2 font-semibold lg:flex flex-row items-center text-blue-600 gap-[40px] h-fit pt-2 pb-4 mx-auto">
         <div className="flex flex-row items-center gap-2">
           <div className="group">
             <a href="">PERSONAL</a>
