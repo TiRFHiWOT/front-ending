@@ -13,7 +13,7 @@ function Header() {
         <img src="/logo.svg" alt="Vector" className="w-56" />
       </div>
 
-      <div className="hidden relative text-sm px-2 font-semibold lg:flex flex-row items-center text-blue-600 gap-[40px] h-fit pt-2 pb-4 mx-auto">
+      <div className="hidden relative text-sm px-2 font-semibold lg:flex flex-row items-center text-blue-600 h-fit pt-2 pb-4 mx-auto">
         <div className="flex flex-row items-center gap-2">
           <div className="group">
             <a href="">PERSONAL</a>
